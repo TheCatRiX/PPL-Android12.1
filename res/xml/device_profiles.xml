@@ -2,6 +2,109 @@
 <profiles
     xmlns:launcher="http://schemas.android.com/apk/res-auto">
     <grid-option
+        launcher:dbFile="launcher_6_by_5.db"
+        launcher:defaultLayoutId="@xml/default_workspace_6x5"
+        launcher:deviceCategory="phone|tablet"
+        launcher:name="normal"
+        launcher:numAllAppsColumns="6"
+        launcher:numColumns="6"
+        launcher:numFolderColumns="3"
+        launcher:numFolderRows="3"
+        launcher:numHotseatIcons="6"
+        launcher:numRows="5">
+        <display-option
+            launcher:allAppsCellSpacingDps="16.0"
+            launcher:allAppsIconSize="60.0"
+            launcher:allAppsIconTextSize="14.0"
+            launcher:borderSpaceDps="16.0"
+            launcher:canBeDefault="true"
+            launcher:iconImageSize="60.0"
+            launcher:iconTextSize="14.0"
+            launcher:minCellHeightDps="104.0"
+            launcher:minCellWidthDps="80.0"
+            launcher:minHeightDps="820.0"
+            launcher:minWidthDps="900.0"
+            launcher:name="Pixel C" />
+    </grid-option>
+    <grid-option
+        launcher:dbFile="launcher.db"
+        launcher:defaultLayoutId="@xml/default_workspace_5x5"
+        launcher:demoModeLayoutId="@xml/demo_workspace_5x5"
+        launcher:deviceCategory="phone|tablet"
+        launcher:name="5_by_7"
+        launcher:numAllAppsColumns="5"
+        launcher:numColumns="5"
+        launcher:numExtendedAllAppsColumns="7"
+        launcher:numExtendedHotseatIcons="7"
+        launcher:numFolderColumns="4"
+        launcher:numFolderRows="4"
+        launcher:numHotseatIcons="5"
+        launcher:numRows="7">
+        <display-option
+            launcher:canBeDefault="true"
+            launcher:iconImageSize="56.0"
+            launcher:iconTextSize="12.0"
+            launcher:landscapeIconSize="54.0"
+            launcher:minHeightDps="659.0"
+            launcher:minWidthDps="387.0"
+            launcher:name="Pixel" />
+        <display-option
+            launcher:canBeDefault="true"
+            launcher:iconImageSize="54.0"
+            launcher:iconTextSize="12.0"
+            launcher:landscapeIconSize="48.0"
+            launcher:minHeightDps="568.0"
+            launcher:minWidthDps="296.0"
+            launcher:name="Pixel 2 XL (Display size set to Largest)" />
+        <display-option
+            launcher:canBeDefault="true"
+            launcher:iconImageSize="54.0"
+            launcher:iconTextSize="12.0"
+            launcher:landscapeIconSize="52.0"
+            launcher:minHeightDps="750.0"
+            launcher:minWidthDps="387.0"
+            launcher:name="Pixel 2 XL" />
+    </grid-option>
+    <grid-option
+        launcher:dbFile="launcher.db"
+        launcher:defaultLayoutId="@xml/default_workspace_5x5"
+        launcher:demoModeLayoutId="@xml/demo_workspace_5x5"
+        launcher:deviceCategory="phone|tablet"
+        launcher:name="5_by_6"
+        launcher:numAllAppsColumns="5"
+        launcher:numColumns="5"
+        launcher:numExtendedAllAppsColumns="7"
+        launcher:numExtendedHotseatIcons="7"
+        launcher:numFolderColumns="4"
+        launcher:numFolderRows="4"
+        launcher:numHotseatIcons="5"
+        launcher:numRows="6">
+        <display-option
+            launcher:canBeDefault="true"
+            launcher:iconImageSize="56.0"
+            launcher:iconTextSize="12.0"
+            launcher:landscapeIconSize="54.0"
+            launcher:minHeightDps="659.0"
+            launcher:minWidthDps="387.0"
+            launcher:name="Pixel" />
+        <display-option
+            launcher:canBeDefault="true"
+            launcher:iconImageSize="54.0"
+            launcher:iconTextSize="12.0"
+            launcher:landscapeIconSize="48.0"
+            launcher:minHeightDps="568.0"
+            launcher:minWidthDps="296.0"
+            launcher:name="Pixel 2 XL (Display size set to Largest)" />
+        <display-option
+            launcher:canBeDefault="true"
+            launcher:iconImageSize="54.0"
+            launcher:iconTextSize="12.0"
+            launcher:landscapeIconSize="52.0"
+            launcher:minHeightDps="750.0"
+            launcher:minWidthDps="387.0"
+            launcher:name="Pixel 2 XL" />
+    </grid-option>
+    <grid-option
         launcher:dbFile="launcher.db"
         launcher:defaultLayoutId="@xml/default_workspace_5x5"
         launcher:demoModeLayoutId="@xml/demo_workspace_5x5"
@@ -39,6 +142,60 @@
             launcher:minHeightDps="750.0"
             launcher:minWidthDps="387.0"
             launcher:name="Pixel 2 XL" />
+    </grid-option>
+    <grid-option
+        launcher:dbFile="launcher.db"
+        launcher:defaultLayoutId="@xml/default_workspace_4x4"
+        launcher:devicePaddingId="@xml/default_workspace_splitdisplay_4x4"
+        launcher:deviceCategory="phone|tablet"
+        launcher:name="4_by_7"
+        launcher:numAllAppsColumns="4"
+        launcher:numColumns="4"
+        launcher:numExtendedAllAppsColumns="6"
+        launcher:numExtendedHotseatIcons="6"
+        launcher:numFolderColumns="3"
+        launcher:numFolderRows="3"
+        launcher:numHotseatIcons="4"
+        launcher:numRows="7">
+        <display-option
+            launcher:canBeDefault="true"
+            launcher:allAppsCellSpacingDps="16.0"
+            launcher:allAppsIconSize="54.0"
+            launcher:allAppsIconTextSize="13.0"
+            launcher:horizontalMargin="21.5"
+            launcher:iconImageSize="60.0"
+            launcher:iconTextSize="12.0"
+            launcher:landscapeIconSize="60.0"
+            launcher:minHeightDps="659.0"
+            launcher:minWidthDps="387.0"
+            launcher:name="Pixel 2021" />
+    </grid-option>
+    <grid-option
+        launcher:dbFile="launcher_4_by_6.db"
+        launcher:defaultLayoutId="@xml/default_workspace_4x5"
+        launcher:devicePaddingId="@xml/default_workspace_splitdisplay_4x4"
+        launcher:deviceCategory="phone|tablet"
+        launcher:name="4_by_6"
+        launcher:numAllAppsColumns="4"
+        launcher:numColumns="4"
+        launcher:numExtendedAllAppsColumns="6"
+        launcher:numExtendedHotseatIcons="6"
+        launcher:numFolderColumns="3"
+        launcher:numFolderRows="3"
+        launcher:numHotseatIcons="4"
+        launcher:numRows="6">
+        <display-option
+            launcher:canBeDefault="true"
+            launcher:allAppsCellSpacingDps="16.0"
+            launcher:allAppsIconSize="56.0"
+            launcher:allAppsIconTextSize="13.0"
+            launcher:horizontalMargin="21.5"
+            launcher:iconImageSize="66.0"
+            launcher:iconTextSize="12.0"
+            launcher:landscapeIconSize="54.0"
+            launcher:minHeightDps="838.0"
+            launcher:minWidthDps="367.0"
+            launcher:name="Pixel 2021" />
     </grid-option>
     <grid-option
         launcher:dbFile="launcher_4_by_4.db"
@@ -314,30 +471,5 @@
             launcher:twoPanelPortraitHorizontalMargin="22.0"
             launcher:twoPanelPortraitMinCellHeightDps="89.0"
             launcher:twoPanelPortraitMinCellWidthDps="68.0" />
-    </grid-option>
-    <grid-option
-        launcher:dbFile="launcher_6_by_5.db"
-        launcher:defaultLayoutId="@xml/default_workspace_6x5"
-        launcher:deviceCategory="tablet"
-        launcher:name="normal"
-        launcher:numAllAppsColumns="6"
-        launcher:numColumns="6"
-        launcher:numFolderColumns="3"
-        launcher:numFolderRows="3"
-        launcher:numHotseatIcons="6"
-        launcher:numRows="5">
-        <display-option
-            launcher:allAppsCellSpacingDps="16.0"
-            launcher:allAppsIconSize="60.0"
-            launcher:allAppsIconTextSize="14.0"
-            launcher:borderSpaceDps="16.0"
-            launcher:canBeDefault="true"
-            launcher:iconImageSize="60.0"
-            launcher:iconTextSize="14.0"
-            launcher:minCellHeightDps="104.0"
-            launcher:minCellWidthDps="80.0"
-            launcher:minHeightDps="820.0"
-            launcher:minWidthDps="900.0"
-            launcher:name="Pixel C" />
     </grid-option>
 </profiles>

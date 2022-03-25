@@ -92,7 +92,7 @@
     <string name="all_apps_search_results">Результаты поиска</string>
     <string name="all_apps_work_tab">Рабочие</string>
     <string name="allapps_quick_launch_chip_text">→ Открыть</string>
-    <string name="allapps_search_hint">Поиск</string>
+    <string name="allapps_search_hint">Поиск на телефоне</string>
     <string name="allow_rotation_desc">При повороте телефона</string>
     <string name="allow_rotation_title">Разрешить поворачивать главный экран</string>
     <string name="allset_description">Теперь вы можете использовать телефон.</string>
@@ -332,7 +332,7 @@
     <string name="search_pref_result_shortcuts_desc">Показывать ярлык поиска приложений и контактов</string>
     <string name="search_pref_result_shortcuts_title">Ярлыки</string>
     <string name="search_pref_result_widgets_title">Виджеты</string>
-    <string name="search_pref_screen_desc">Поиск устройства из списка всех приложений</string>
+    <string name="search_pref_screen_desc">Показывать в результатах поиска</string>
     <string name="search_pref_screen_title">Поиск на телефоне</string>
     <string name="select_tooltip">Выберите текст или изображение, чтобы скопировать, переслать друзьям и т. д.</string>
     <string name="selectable_url_description">Ссылка, которую можно скопировать или отправить</string>
@@ -371,7 +371,7 @@
     <string name="styles_wallpaper_button_text">Обои и стиль</string>
     <string name="suggested_action_content_description">%1$s открывается в приложении %2$s</string>
     <string name="suggestion_pref_screen_desc">Для подсказок на главном экране и в списке всех приложений</string>
-    <string name="suggestion_pref_screen_title">Рекомендации</string>
+    <string name="suggestion_pref_screen_title">Рекомендации приложений</string>
     <string name="summary_app_suggestions">На экране обзора и вверху списка всех приложений</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s: %2$s</string>

@@ -5,12 +5,12 @@
     <bool name="config_enableTaskSnapshotPreloading">true</bool>
     <bool name="config_header_protection_supported">true</bool>
     <bool name="config_largeHeap">false</bool>
-    <bool name="config_materialPreferenceIconSpaceReserved">true</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
     <bool name="home_settings_allow_divider">true</bool>
-    <bool name="home_settings_icon_space_reserved">true</bool>
+    <bool name="home_settings_icon_space_reserved">false</bool>
     <bool name="mtrl_btn_textappearance_all_caps">true</bool>
     <bool name="search_pref_filter_by_allow_list">true</bool>
-    <bool name="search_pref_legacy_ime">true</bool>
+    <bool name="search_pref_legacy_ime">false</bool>
     <bool name="search_pref_result_action_enabled">true</bool>
     <bool name="search_pref_result_apps_enabled">true</bool>
     <bool name="search_pref_result_appsearch_settings_enabled">true</bool>
@@ -30,7 +30,7 @@
     <bool name="search_pref_result_tips_enabled">true</bool>
     <bool name="search_pref_result_widgets_enabled">true</bool>
     <bool name="search_pref_show_hidden_targets">true</bool>
-    <bool name="search_pref_show_ime">false</bool>
+    <bool name="search_pref_show_ime">true</bool>
     <bool name="search_pref_show_inline_label">false</bool>
     <bool name="simple_cache_enable_im_memory">false</bool>
 </resources>

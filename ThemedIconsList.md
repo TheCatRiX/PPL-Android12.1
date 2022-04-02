@@ -253,5 +253,12 @@ v2.6:
 • Telegram Monet
 •
 
+v2.6.1:
+• Burial 31 (GCam mod)
+• Monefy & Monefy Pro
+• Dnevnik.ru
+• Total Commander
+•
+
 v2.7:
 •

@@ -252,3 +252,6 @@ v2.6:
 • LINE
 • Telegram Monet
 •
+
+v2.7:
+•

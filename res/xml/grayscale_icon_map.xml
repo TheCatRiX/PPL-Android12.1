@@ -874,6 +874,15 @@
 <!--Additional themed gcam mods icons below-->
     <icon
         drawable="@drawable/themed_icon_camera"
+        package="com.GoogleCamera.mwp83" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.asus.camera" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="app.grapheneos.camera" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
         package="org.codeaurora.snapcam" />
     <icon
         drawable="@drawable/themed_icon_camera"

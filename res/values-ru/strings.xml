@@ -92,7 +92,7 @@
     <string name="all_apps_search_results">Результаты поиска</string>
     <string name="all_apps_work_tab">Рабочие</string>
     <string name="allapps_quick_launch_chip_text">→ Открыть</string>
-    <string name="allapps_search_hint">Поиск на телефоне</string>
+    <string name="allapps_search_hint">Поиск на устройстве</string>
     <string name="allow_rotation_desc">При повороте телефона</string>
     <string name="allow_rotation_title">Разрешить поворачивать главный экран</string>
     <string name="allset_description">Теперь вы можете использовать телефон.</string>
